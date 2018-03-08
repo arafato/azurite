@@ -21,7 +21,8 @@
                 "${workspaceRoot}/test"
             ],
             "internalConsoleOptions": "openOnSessionStart",
-            "protocol": "inspector"
+            "protocol": "inspector",
+            "preLaunchTask": "clean"
         },
         {
             "type": "node",
